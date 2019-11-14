@@ -1,0 +1,17 @@
+<!--
+* : 0 a n veces
++ : 1 a n veces
+? : 0 o 1 vez.
+
+#REQUIRED : indica que siempre hay que darle un valor a ese atributo y no puede tener un valor por defecto.
+
+#IMPLIED : Si el atributo que se declara no tiene un valor predeterminado, no tiene valor fijo, ni es
+requerido, entonces hay que declarar el atributo como sobreentendido. El atributo es opcional.
+
+#FIXED : Se usan cuando se quiere especificar que el valor del atributo es
+constante y no se puede cambiar. Si toma otra valor el XML no será valido.
+
+VALOR_POR_DEFECTO Contiene un valor predeterminado. Los valores se
+pueden rodear con comillas independientes (') o dobles(") será #IMPLIED.
+
+-->
