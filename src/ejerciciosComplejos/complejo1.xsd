@@ -13,10 +13,10 @@
         <xs:complexType name="typeDireccion">
             <xs:sequence>
                 <xs:element name="calle" type="xs:string"/>
-                <xs:element name="numero" type="xs:string"/>
+                <xs:element name="numero" type="xs:int"/>
                 <xs:element name="ciudad" type="xs:string"/>
                 <xs:element name="provincia" type="xs:string"/>
             </xs:sequence>
         </xs:complexType>
-
 </xs:schema>
+<!-- ([a-z] [A-Z]) + //Esto es una mayuscula y una minuscula intercalado -->
