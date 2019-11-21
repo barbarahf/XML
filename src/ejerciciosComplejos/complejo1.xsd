@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="alumno">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="nombre" type="xs:string"/>
+                <xs:element name="direccion" type="typeDireccion"/>
+                <xs:element name="telefono" type="xs:integer"/>
+            </xs:sequence>
+            <xs:attribute name="dni" type="xs:int"/>
+        </xs:complexType>
+    </xs:element>
+        <xs:complexType name="typeDireccion">
+            <xs:sequence>
+                <xs:element name="calle" type="xs:string"/>
+                <xs:element name="numero" type="xs:string"/>
+                <xs:element name="ciudad" type="xs:string"/>
+                <xs:element name="provincia" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+
+</xs:schema>
