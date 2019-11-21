@@ -15,4 +15,6 @@ VALOR_POR_DEFECTO Contiene un valor predeterminado. Los valores se
 pueden rodear con comillas independientes (') o dobles(") será #IMPLIED.
 
 ID: identificador único (combinación de cifras y/o letras). Solo puede haber un atributo de tipo ID en el elemento.
+//Ejercicio 2 apuntar flecha
 -->
+
