@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<todolist owner="David Coll" mes="05">
+
+	<!-- TODO LIST Compra para el viernes -->
+	<todo deadlineDay="24">
+		<title>Compra</title>
+		<items>
+			<item>carne picada</item>
+			<item>queso</item>
+			<item>salsa de tomate</item>
+			<item>pasta</item>
+		</items>
+		<comentarios>
+			<nota>
+				Hablar con los amigos y confirmar que traen las bebidas.<important>Noche del viernes</important> <date>23/05/2019</date>.
+			</nota>
+			<nota>
+				<importante>#NoPlasticChallenge</importante>Coger bolsa de la compra, no usar plástico!
+			</nota>
+		</comentarios>
+	</todo>
+	
+	<!-- TODO LIST Examen XSL y XPATH -->
+	<todo deadlineDay="21">
+		<title>Examen XSL y XPath</title>
+		<items>
+			<item>Revisar teoria XPath</item>
+			<item>Hacer grafo de la biblioteca</item>
+			<item>Resumir la sintaxis de XSL</item>
+			<item>Hacer ejercicio 6</item>
+			<item>Hacer ejercicio 8</item>
+		</items>
+		<comentarios>
+			<nota>
+				<importante>Clase extra</importante> Preparar dudas para la clase de repaso <date>15/05/2019</date>.
+			</nota>
+			<nota>
+				La profesora ha comentado que habrá que dibujar un árbol representatico del XML.
+			</nota>
+		</comentarios>
+	</todo>
+	
+	<!-- TODO LIST Viaje verano -->
+	<todo deadlineDay="22">
+		<title>Viaje</title>
+		<items>
+			<item>Buscar vuelos de ida entre el 28/06 y 31/06</item>
+			<item>Enviar mail a Susan para confirmar intercambio de casa</item>
+			<item>Pedir hora pasaporte</item>
+		</items>
+		<comentarios>
+			<nota>
+				Los gastos no deben ser superiores a 500 euros.
+			</nota>
+		</comentarios>
+	</todo>
+	</todolist>

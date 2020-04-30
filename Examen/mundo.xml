@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mundo>
+	<continente>
+		<nombre color="green">Africa</nombre>
+		<paises>
+			<pais>
+				<nombre>Senegal</nombre>
+				<capital>Dakar</capital>
+			</pais>
+			<pais>
+				<nombre>Marruecos</nombre>
+				<capital>Rabat</capital>
+			</pais>
+		</paises>
+	</continente>
+	<continente>
+		<nombre color="white">Europe</nombre>
+		<paises>
+			<pais>
+				<nombre>Francia</nombre>
+				<capital>Paris</capital>
+			</pais>
+			<pais>
+				<nombre>España</nombre>
+				<capital>Madrid</capital>
+			</pais>
+		</paises>
+	</continente>
+ 
+	<continente>
+		<nombre color="blue">Oceanía</nombre>
+		<paises>
+			<pais>
+				<nombre>Australia</nombre>
+				<capital>Sidney</capital>
+			</pais>
+		</paises>
+	</continente>
+	<continente>
+		<nombre color="yellow">Asia</nombre>
+		<paises>
+			<pais>
+				<nombre>Vietnam</nombre>
+				<capital>Hanoi</capital>
+			</pais>
+			<pais>
+				<nombre>China</nombre>
+				<capital>Pekín</capital>
+			</pais>
+		</paises>
+	</continente>
+	<continente>
+		<nombre color="red">America</nombre>
+		<paises>
+			<pais>
+				<nombre>Argentina</nombre>
+				<capital>Buenos Aires</capital>
+			</pais>
+			<pais>
+				<nombre>Colombia</nombre>
+				<capital>Bogotá</capital>
+			</pais>
+		</paises>
+	</continente>
+</mundo>

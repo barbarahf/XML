@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+	<clase>
+		<hora inicio="15:25" fin="16:20"/>
+		<aula num="45">
+			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="Juanma">SO</modulo>
+			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
+			<modulo dia="miercoles" especialidad="DAW" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="jueves" especialidad="DAW" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="viernes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
+		</aula>
+		<aula num="25">
+			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Rafael">FOL</modulo>
+			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="Rafael">FOL</modulo>
+			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="viernes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
+		</aula>
+	</clase>
+	<clase>
+		<hora inicio="16:20" fin="17:15"/>
+		<aula num="45">
+			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="Juanma">SO</modulo>
+			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
+			<modulo dia="miercoles" especialidad="DAW" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="jueves" especialidad="DAW" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="viernes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
+		</aula>
+		<aula num="25">
+			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Rafael">EIE</modulo>
+			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="Rafael">FOL</modulo>
+			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="viernes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
+		</aula>
+	</clase>
+	<clase>
+		<hora inicio="17:15" fin="18:10"/>
+		<aula num="45">
+			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
+			<modulo dia="miercoles" especialidad="DAW" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="jueves" especialidad="DAW" curso="1" profesor="Pere Guitart">Python</modulo>
+			<modulo dia="viernes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
+		</aula>
+		<aula num="25">
+			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="Alicia">XML</modulo>
+			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Rafael">EIE</modulo>
+			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="Juanma">SO</modulo>
+			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="viernes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
+		</aula>
+	</clase>
+	<clase>
+		<hora inicio="18:30" fin="19:20"/>
+		<aula num="45">
+			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Rafael">FOL</modulo>
+			<modulo dia="miercoles" especialidad="DAW" curso="1" profesor="Alicia">XML</modulo>
+			<modulo dia="jueves" especialidad="DAW" curso="1" profesor="Rafael">FOL</modulo>
+		</aula>
+		<aula num="25">
+			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="Juanma">SO</modulo>
+			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
+			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Alicia">XML</modulo>
+		</aula>
+	</clase>
+	<clase>
+		<hora inicio="19:20" fin="20:10" />
+		<aula num="45">
+			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Rafael">FOL</modulo>
+			<modulo dia="miercoles" especialidad="DAW" curso="1" profesor="Alicia">XML</modulo>
+			<modulo dia="jueves" especialidad="DAW" curso="1" profesor="Rafael">EIE</modulo>
+		</aula>
+		<aula num="25">
+			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
+			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Pere Guitart">Python</modulo>
+		</aula>
+	</clase>
+	<clase>
+		<hora inicio="20:10" fin="21:00"/>
+		<aula num="45">
+			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="miercoles" especialidad="DAW" curso="1" profesor="Juanma">Tutoria</modulo>
+			<modulo dia="jueves" especialidad="DAW" curso="1" profesor="Rafael">EIE</modulo>
+		</aula>
+		<aula num="25">
+			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="A.Limon">SO</modulo>
+			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
+			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="Meritxell">Tutoria</modulo>
+		</aula>
+	</clase>
+</horario>

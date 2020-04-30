@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<horario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="horarioMontse.xsd">
+   <profesor>Montse Madridejos</profesor>
+   <clase>
+      <hora inicio="15:25" fin="16:20"/>
+      <materia dia="miercoles" especialidad="DAW" curso="1">PB, A45</materia>
+      <materia dia="lunes" especialidad="DAM" curso="1">PB, A25</materia>
+      <materia dia="jueves" especialidad="DAM" curso="1">PB, A25</materia>
+   </clase>
+   <clase>
+      <hora inicio="16:20" fin="17:15"/>
+      <materia dia="miercoles" especialidad="DAW" curso="1">PB, A45</materia>
+      <materia dia="lunes" especialidad="DAM" curso="1">PB, A25</materia>
+      <materia dia="jueves" especialidad="DAM" curso="1">PB, A25</materia>
+   </clase>
+   <clase>
+      <hora inicio="17:15" fin="18:10"/>
+      <materia dia="miercoles" especialidad="DAW" curso="1">PB, A45</materia>
+      <materia dia="jueves" especialidad="DAM" curso="1">PB, A25</materia>
+   </clase>
+   <clase>
+      <hora inicio="18:30" fin="19:20"/>
+   </clase>
+   <clase>
+      <hora inicio="19:20" fin="20:10"/>
+      <materia dia="lunes" especialidad="DAW" curso="1">PB, A45</materia>
+   </clase>
+   <clase>
+      <hora inicio="20:10" fin="21:00"/>
+      <materia dia="lunes" especialidad="DAW" curso="1">PB, A45</materia>
+   </clase>
+</horario>

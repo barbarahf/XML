@@ -5,7 +5,6 @@
             <nom>Un tv</nom>
             <programes>
                 <xsl:for-each select="audiencia">
-                    <!-- añadir atributo -->
                     <programa>
                         <xsl:attribute name="hora">
                             <xsl:value-of select="hora" />
@@ -14,7 +13,6 @@
                             <xsl:for-each select="cadenes">
                                 <xsl:value-of select="cadena[@nom='Un TV']"></xsl:value-of>
                                 <audiencia>
-                                    <!-- <xsl:value-of select="cadena[@nom='Un TV']/@porcentatge"></xsl:value-of> -->
                                     <xsl:value-of select="cadena[@nom='Un TV']/@percentatge"></xsl:value-of>
                                 </audiencia>
                             </xsl:for-each>
@@ -24,4 +22,4 @@
             </programes>
         </cadena>
     </xsl:template>
-</xsl:stylesheet><!-- Hacer lo mismo con templates (eliminar for) -->
+</xsl:stylesheet>
