@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <horario>
 	<clase>
-		<hora inicio="15:25" fin="16:20"/>
+		<hora inicio="15:25" fin="16:20">
+		</hora>
 		<aula num="45">
 			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="Juanma">SO</modulo>
 			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>
@@ -13,12 +14,14 @@
 			<modulo dia="lunes" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
 			<modulo dia="martes" especialidad="DAM" curso="1" profesor="Rafael">FOL</modulo>
 			<modulo dia="miercoles" especialidad="DAM" curso="1" profesor="Rafael">FOL</modulo>
-			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Montse">PB</modulo>
+			<modulo dia="jueves" especialidad="DAM" curso="1" profesor="Montses">PB</modulo>
 			<modulo dia="viernes" especialidad="DAM" curso="1" profesor="Meritxell">BD</modulo>
 		</aula>
 	</clase>
 	<clase>
-		<hora inicio="16:20" fin="17:15"/>
+		<hora inicio="16:20" fin="17:15">
+		aquino hya monse noooooooooo
+		</hora>
 		<aula num="45">
 			<modulo dia="lunes" especialidad="DAW" curso="1" profesor="Juanma">SO</modulo>
 			<modulo dia="martes" especialidad="DAW" curso="1" profesor="Javier">BD</modulo>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<horario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="horarioMontse.xsd">
+<!-- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="horarioMontse.xsd"-->
+<horario>
    <profesor>Montse Madridejos</profesor>
    <clase>
       <hora inicio="15:25" fin="16:20"/>
